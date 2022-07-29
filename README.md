@@ -10,6 +10,7 @@ In this project, I was tasked to create a report that includes what cryptocurren
 
 ## Results
 
+1.) The data provided from the source file "crypto_data" was manipulated in order show the cryptocurrencies that are being traded, and have a working algorithm. Rows that have at least 1 null value were also dropped.
 ![Data](https://user-images.githubusercontent.com/102476861/181670509-70f0b033-1f5b-4a3b-838a-ccb5d53a9d53.png)
 
 ![Principal Components](https://user-images.githubusercontent.com/102476861/181670569-bb9f566c-95e1-4d47-8fa5-493fd851a688.png)
